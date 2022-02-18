@@ -16,7 +16,7 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-- 🔭 I’m currently working on [My channel on YT] (https://www.youtube.com/channel/UC4iL1GAOqfJQef_g9hH1CFQ)
+- 🔭 I’m currently working on [My channel on YT](https://www.youtube.com/channel/UC4iL1GAOqfJQef_g9hH1CFQ)
 
 - 🌱 I’m currently learning React, Java, JavaScript, Python, C#, SQL and MySQL and other technologies 
 
