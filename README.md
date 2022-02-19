@@ -42,7 +42,7 @@
 <a href= https://github.com/requiredKode?tab=repositories&q=&type=&language=dotnet&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/dotnet.svg'> </a>
 <a href= https://github.com/requiredKode?tab=repositories&q=&type=&language=git&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg'> </a>
 <a href= https://github.com/requiredKode?tab=repositories&q=&type=&language=java&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg'> </a>
-<a href= https://github.com/requiredKode?tab=repositories&q=&type=&language=sql-server&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/requiredKode/requiredKode/main/icons/sql-server.svg'> </a>
+<a href= https://github.com/requiredKode?tab=repositories&q=&type=&language=sql-server&sort= > <img width ='35px' src ='https://raw.githubusercontent.com/requiredKode/requiredKode/main/icons/sql-server.svg'> </a>
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <a href = 'https://www.github.com/requiredKode'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
