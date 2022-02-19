@@ -4,7 +4,7 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=RequiredKode says Hello!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=RequiredKode+says+Hello!&center=true&size=30">
   </a>
 </h1>
 
@@ -14,7 +14,7 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=requiredKode.requiredKode)
 
 </p>
-<div size='20px'> Hi! My name is Andrés Guzmán S.. Thank You for taking the time to view my GitHub Profile :smile: 
+<div size='20px'> Hi! My name is Andrés Guzmán S. AKA. RequiredKode.. Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
 
 <h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
@@ -78,6 +78,8 @@
 </p>
 
 <hr>
- <a href="https://www.buymeacoffee.com/mokkapps" target="_blank" rel="noreferrer nofollow">
-      <img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="40" width="170" >
-    </a>
+<div align=center>
+ <a href="https://paypal.me/AndrwGman?locale.x=es_XC" target="_blank" rel="noreferrer nofollow">
+      <img width="18%" alt="Donate with Paypal" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/support-paypal.png"/>
+ </a>
+</div>
