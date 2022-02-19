@@ -25,7 +25,7 @@
 - 🔭 I’m currently working on <a href="https://www.youtube.com/channel/UC4iL1GAOqfJQef_g9hH1CFQ"><img width="15px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
   
 
-- 🌱 I’m currently learning React, Java, JavaScript, Python, C#, SQL and MySQL and other technologies 
+- 🌱 I’m currently learning React, Java, JavaScript, Python, C#, SQL, MySQL and other technologies 
 
 - 👯 I’m looking to collaborate on Projects,Tech Articles 
 
