@@ -14,7 +14,7 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=requiredKode.requiredKode)
 
 </p>
-<div size='20px'> Hi! My name is Andrés Guzmán S. AKA. RequiredKode.. Thank You for taking the time to view my GitHub Profile :smile: 
+<div size='20px'> Hi! My name is Andrés Guzmán S. AKA. RequiredCode.. Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
 
 ### Do you want to visit my portfolio?  <a href="https://requiredkode.github.io/deploy_portfolio/" target="_blank">JUST CLICK ME</a>
